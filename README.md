@@ -12,6 +12,7 @@
 ## 🚀 Technologies & Tools
 **Languages:** Python, C++, JavaScript, SQL, HTML, CSS  
 **Frameworks:** Odoo 17, .NET, React
+
 **Databases:** PostgreSQL, MySQL, SQL Server  
 **Tools:** Git, VS Code, Jupyter Notebook, Figma  
 **Other Skills:** ERDs, DFDs, Requirements Engineering, UML, Agile
