@@ -31,10 +31,10 @@
 ---
 
 ## 🌱 Currently Learning
-- []Odoo 17 Development  
+- [] Odoo 17 Development  
 - Python for automation  
 - Data analytics & NLP  
-- Git and team-based development workflows
+- [] Git and team-based development workflows
 
 ---
 
