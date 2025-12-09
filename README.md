@@ -4,7 +4,7 @@
 
 🎓 Undergraduate | B.Sc. (Hons) in Information Technology  
 💼 Former Software Engineer Intern @ MYNDinnovation Pvt Ltd  
-💻 Passionate about Odoo Development, Full-Stack Engineering & Data Analytics  
+💻 Passionate about Odoo, Full-Stack Engineering & Data Analytics  
 💡 Always learning & sharing projects that make life easier
 
 ---
