@@ -30,7 +30,7 @@
 - **🎮 Word Puzzle Game** – Lightweight game built with C++ 
 - **🎁 Donation App Prototype** – UI/UX prototype using Figma  
 - **🧾 Odoo Custom Addon** – CRM/HRM/Payroll modules developed during internship  
-- **🎓 Student Registration System** – C# + SQL Server final project
+- **🎓 Student Registration System** – C# + SQL Server project
 
 ---
 ### I code in
