@@ -1,4 +1,4 @@
-<img align="right" width="470" height="450" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" width="470" height="450" src="https://github.com/user-attachments/assets/e6d30478-8ced-4314-a1bd-ca33f05054d8">
 
 ## Hi there 👋 It's me Yuvitha
 
