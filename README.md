@@ -1,7 +1,6 @@
 ## Hi there 👋 It's me Yuvitha
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-# Hi there 👋 I'm Yuvitha Thavarasa
 
 🎓 Undergraduate | B.Sc. (Hons) in Information Technology  
 💼 Former Software Engineer Intern @ MYNDinnovation Pvt Ltd  
@@ -12,14 +11,14 @@
 
 ## 🚀 Technologies & Tools
 **Languages:** Python, C++, JavaScript, SQL, HTML, CSS  
-**Frameworks:** Odoo 17, Flask, .NET, React (basic), Bootstrap  
+**Frameworks:** Odoo 17, .NET, React
 **Databases:** PostgreSQL, MySQL, SQL Server  
 **Tools:** Git, VS Code, Jupyter Notebook, Figma  
 **Other Skills:** ERDs, DFDs, Requirements Engineering, UML, Agile
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 My Projects
 - **🚗 Driving School Management System** – Web-based CRUD app with admin dashboard  
 - **📱 Native To-Do App** – Simple productivity mobile app  
 - **⛅ Hybrid Weather App** – API-based weather tracking  
@@ -32,7 +31,7 @@
 ---
 
 ## 🌱 Currently Learning
-- Odoo 17 Development  
+- []Odoo 17 Development  
 - Python for automation  
 - Data analytics & NLP  
 - Git and team-based development workflows
