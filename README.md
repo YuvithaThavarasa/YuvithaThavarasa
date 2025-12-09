@@ -40,14 +40,6 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/><img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/><img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
 
 
-## 🚀 Technologies & Tools
-**Languages:** Python, C++, JavaScript, SQL, HTML, CSS  
-**Frameworks:** Odoo 17, .NET, React
-**Databases:** PostgreSQL, MySQL, SQL Server 
-**Tools:** Git, VS Code, Jupyter Notebook, Figma  
-**Other Skills:** ERDs, DFDs, Requirements Engineering, UML, Agile
-
-
 ## 🌱 Currently Learning
 - [X] Odoo 17 Development  
 - [ ] Python for automation  
