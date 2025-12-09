@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Yuvitha
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 🎓 Undergraduate | B.Sc. (Hons) in Information Technology  
 💼 Former Software Engineer Intern @ MYNDinnovation Pvt Ltd  
@@ -34,7 +34,7 @@
 - [X] Odoo 17 Development  
 - [ ] Python for automation  
 - [ ] Data analytics & NLP  
-- [X ] Git and team-based development workflows
+- [X] Git and team-based development workflows
 
 ---
 
