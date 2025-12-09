@@ -1,6 +1,6 @@
-## Hi there 👋 It's me Yuvitha
-
 <img align="right" width="470" height="450" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+
+## Hi there 👋 It's me Yuvitha
 
 🎓 Undergraduate | B.Sc. (Hons) in Information Technology  
 💼 Former Software Engineer Intern @ MYNDinnovation Pvt Ltd  
